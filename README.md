@@ -1,2 +1,2 @@
 # Latihan Ketiga
-Anggota: Jennifer(13), caroline(06), Daffa(07), Valencia(26)
+Anggota: Jennifer(13), caroline(05), Daffa(06), Valencia(26)
